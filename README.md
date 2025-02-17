@@ -21,7 +21,7 @@ heart-disease-prediction/
 ```
 
 ## 📊 Dataset
-- **Source:** [heart.csv](data/heart.csv)
+- **Source:** [heart.csv](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - **Target Variable:** `target` (1 = Disease, 0 = No Disease)
 - **Features:** Age, Cholesterol, Blood Pressure, Max Heart Rate, etc.
 
